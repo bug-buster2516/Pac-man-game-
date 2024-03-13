@@ -9,3 +9,5 @@ Steps to play this game locally-
 5.Enjoy: Have fun playing Pacman!
 
 Optional: Feel free to customize and modify the game code to enhance your gaming experience.
+
+![Screenshot 2024-03-13 153543](https://github.com/bug-buster2516/Pac-man-game-/assets/99116607/2381c317-30f5-4972-8ced-7d79cfbc255c)
